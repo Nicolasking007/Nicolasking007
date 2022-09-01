@@ -13,7 +13,7 @@
   
 ### Hi there 👋, I'm Nicolasking007.
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5894F7&width=450&height=70&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0Nicolasking007+Github+Homepage;%E5%B1%B1%E4%B8%8D%E5%90%91%E6%88%91%E8%B5%B0%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BE%BF%E5%90%91%E5%B1%B1%E8%B5%B0%E5%8E%BB;%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%9B%B0%E5%9D%9B++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5894F7&width=490&height=70&lines=Welcome+to+Nicolasking007+Github+Homepage;%E5%B1%B1%E4%B8%8D%E5%90%91%E6%88%91%E8%B5%B0%E6%9D%A5%EF%BC%8C%E6%88%91%E4%BE%BF%E5%90%91%E5%B1%B1%E8%B5%B0%E5%8E%BB;%E6%88%91%E7%9A%84%E5%85%AC%E4%BC%97%E5%8F%B7%EF%BC%9A%E6%9B%B0%E5%9D%9B++)](https://git.io/typing-svg)
 ---
 
 [![Nicolasking007's github activity graph](https://activity-graph.herokuapp.com/graph?username=Nicolasking007&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
