@@ -11,7 +11,6 @@
   </a>
 </p>
 
----
 
 <div align="center">
   <a href="https://nkupp.com" target="_blank" style="display: inline-block;">
