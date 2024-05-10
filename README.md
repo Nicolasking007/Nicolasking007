@@ -1,6 +1,17 @@
 <p align="center">
 <img  src="https://nkupp.com/images/avatar.png" style="align:center;width:180px;max-width:180px;height:auto;border-radius:50%;">
 <p>
+  
+<p align="center">
+  <a href="https://nkupp.com/">
+    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-brightgreen" alt="Blog">
+  </a>
+  <a href="#公众号">
+    <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-曰坛-blue" alt="公众号">
+  </a>
+</p>
+
+---
 
 <div align="center">
   <a href="https://nkupp.com" target="_blank" style="display: inline-block;">
@@ -15,14 +26,6 @@
   </a>
 </div> 
 
-<p align="center">
-  <a href="https://nkupp.com/">
-    <img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-Blog-brightgreen" alt="Blog">
-  </a>
-  <a href="#公众号">
-    <img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-曰坛-blue" alt="公众号">
-  </a>
-</p>
   
 ### Hi there 👋, I'm Nicolasking007.
 
