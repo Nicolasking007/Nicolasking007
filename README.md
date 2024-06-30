@@ -34,6 +34,12 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1643514525/5197/party_blob.gif" width="60" height="60" align="right"/> 
 </div>
 
+
+### Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nicolasking007&bg_color=d1daff&color=5a9e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 --- 
 
