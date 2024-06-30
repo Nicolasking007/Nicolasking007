@@ -38,6 +38,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [电影、电视直播源及其资源订阅](https://nkupp.com/post/951fc658.html)
+- [移动吉比特H5-9光猫获取超级管理员权限](https://nkupp.com/post/53f392e1.html)
+- [基于 Scriptable 从零开始美化iOS桌面（六）](https://nkupp.com/post/cb4d9ecb.html)
+- [Bing壁纸集合 （2024年03月）](https://nkupp.com/post/9cde0704.html)
+- [Bing壁纸集合 （2024年02月）](https://nkupp.com/post/68b3be09.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nicolasking007&bg_color=d1daff&color=5a9e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
