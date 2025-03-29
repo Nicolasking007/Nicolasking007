@@ -38,11 +38,11 @@
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bing壁纸集合 （2025年02月）](https://nkupp.com/post/f316f266.html)
 - [Bing壁纸集合 （2025年01月）](https://nkupp.com/post/c2fee8fb.html)
 - [Bing壁纸集合 （2024年12月）](https://nkupp.com/post/a419be97.html)
 - [Bing壁纸集合 （2024年11月）](https://nkupp.com/post/95f1a40a.html)
 - [Bing壁纸集合 （2024年10月）](https://nkupp.com/post/3386afbe.html)
-- [Bing壁纸集合 （2024年09月）](https://nkupp.com/post/6ab4eaf3.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nicolasking007&bg_color=d1daff&color=5a9e4c&line=4c9e5a&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
